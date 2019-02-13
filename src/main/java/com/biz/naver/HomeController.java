@@ -12,6 +12,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 /**
+ * home contor ÆíÁý
+ * 
  * Handles requests for the application home page.
  */
 @Controller
